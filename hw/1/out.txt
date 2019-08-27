@@ -1,0 +1,8 @@
+ Group 0-20 IsEqual() -> True ( M1: 16285 M2: 16285 SD1: 8497 SD2: 8497 )
+ Group 0-30 IsEqual() -> True ( M1: 16726 M2: 16726 SD1: 8619 SD2: 8619 )
+ Group 0-40 IsEqual() -> True ( M1: 15484 M2: 15484 SD1: 8385 SD2: 8385 )
+ Group 0-50 IsEqual() -> True ( M1: 14746 M2: 14746 SD1: 8457 SD2: 8457 )
+ Group 0-60 IsEqual() -> True ( M1: 15724 M2: 15724 SD1: 8443 SD2: 8443 )
+ Group 0-70 IsEqual() -> True ( M1: 14873 M2: 14873 SD1: 8397 SD2: 8397 )
+ Group 0-80 IsEqual() -> True ( M1: 14976 M2: 14976 SD1: 8306 SD2: 8306 )
+ Group 0-90 IsEqual() -> True ( M1: 14759 M2: 14759 SD1: 8248 SD2: 8248 )
