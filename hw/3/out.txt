@@ -1,0 +1,89 @@
+Dylans-MBP-2:3 dgwilson$ dotnet run
+Mode of aaaabbc is a
+Entropy of aaaabbc is 1.37878349348618
+
+Output for sample Abcd problem: 
+  num|    a|    b|    c|    d|  acc| prec|   pd|   pf|    f|    g|     class
+   14|    8|    0|    0|    6| 0.93| 1.00| 1.00| 0.00| 1.00| 1.00|       yes
+   14|   11|    0|    1|    2| 0.93| 0.67| 1.00| 0.08| 0.80| 0.96|        no
+   14|    8|    1|    0|    5| 0.93| 1.00| 0.83| 0.00| 0.91| 0.91|     maybe
+
+outlook     <humid      wind        !play       
+rainy       80          FALSE       yes         
+sunny       85          FALSE       no          
+sunny       90          TRUE        no          
+overcast    86          FALSE       yes         
+rainy       96          FALSE       yes         
+rainy       70          TRUE        no          
+overcast    65          TRUE        yes         
+sunny       95          FALSE       no          
+sunny       70          FALSE       yes         
+rainy       80          FALSE       yes         
+sunny       70          TRUE        yes         
+overcast    90          TRUE        yes         
+overcast    75          FALSE       yes         
+rainy       91          TRUE        no          
+
+t.cols
+|	1
+|	|	|	add: Sym1
+|	|	|	cnt
+|	|	|	|	 rainy: 5
+|	|	|	|	 sunny: 5
+|	|	|	|	 overcast: 4
+|	|	|	col: 1
+|	|	|	mode: sunny
+|	|	|	most: 5
+|	|	|	n: 14
+|	|	|	txt: outlook
+|	1
+|	|	|	add: Num1
+|	|	|	col: 3
+|	|	|	hi: 96
+|	|	|	lo: 65
+|	|	|	m2: 1375.21428571429
+|	|	|	mu: 81.6428571428572
+|	|	|	n: 14
+|	|	|	sd: 10.285218242007
+|	|	|	txt: <humid
+|	1
+|	|	|	add: Sym1
+|	|	|	cnt
+|	|	|	|	 FALSE: 8
+|	|	|	|	 TRUE: 6
+|	|	|	col: 4
+|	|	|	mode: FALSE
+|	|	|	most: 8
+|	|	|	n: 14
+|	|	|	txt: wind
+|	1
+|	|	|	add: Sym1
+|	|	|	cnt
+|	|	|	|	 yes: 9
+|	|	|	|	 no: 5
+|	|	|	col: 5
+|	|	|	mode: yes
+|	|	|	most: 9
+|	|	|	n: 14
+|	|	|	txt: !play
+t.my
+|	class
+|	|	5
+|	goals
+|	|	3
+|	|	5
+|	nums
+|	|	3
+|	syms
+|	|	1
+|	|	4
+|	|	5
+|	w
+|	|	3:-1
+|	xnums
+|	xs
+|	|	1
+|	|	4
+|	xsyms
+|	|	1
+|	|	4
