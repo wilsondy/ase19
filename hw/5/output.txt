@@ -1,0 +1,10 @@
+/usr/local/share/dotnet/dotnet /Users/wilsondy/git/GitHub/ase19/hw/5/bin/Debug/netcoreapp2.2/hw5.dll
+----- Data File: data1.csv ------ 
+x.n  10 | x.lo:    0.0067 x.hi     0.2394  |  y.n  10 | y.lo:    0.0029 y.hi     0.0496
+x.n   4 | x.lo:    0.4001 x.hi     0.4418  |  y.n   4 | y.lo:    0.4021 y.hi     0.4642
+x.n  11 | x.lo:    0.4216 x.hi     0.8470  |  y.n  11 | y.lo:    0.4838 y.hi     0.8993
+
+----- Data File: data2.csv ------ 
+x.n  50 | x.lo:    0.0067 x.hi     0.2394  |  y.n 50 | y.mode: 'a' y.ent 0
+x.n  25 | x.lo:    0.4001 x.hi     0.4418  |  y.n 25 | y.mode: 'b' y.ent 0
+x.n  50 | x.lo:    0.6015 x.hi     0.8470  |  y.n 50 | y.mode: 'c' y.ent 0
