@@ -1,0 +1,14 @@
+variable,stattype
+culture,numerical
+criticality,numerical
+criticalitymodifier,numerical
+initialknown,numerical
+interdependency,numerical
+dynamism,numerical
+size,numerical
+plan,numerical
+teamsize,numerical
+cost,numerical
+score,numerical
+completion,numerical
+idle,numerical
